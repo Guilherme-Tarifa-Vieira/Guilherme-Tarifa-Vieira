@@ -6,19 +6,15 @@
 
      Acredito que a tecnologia é uma força poderosa para transformar o mundo, e estou empenhado em fazer minha parte para torná-lo um lugar melhor. Minha paixão por         tecnologia é impulsionada por um desejo de melhorar a qualidade de vida das pessoas e cultivar um futuro mais brilhante e promissor para todos. 
 
-- 🔭 I’m currently working at [Deloitte]([https://github.com/Rocketseat](https://www2.deloitte.com/br/pt.html))
+- 🔭 Atualmente trabalho na Deloitte [Deloitte]([https://github.com/Rocketseat](https://www2.deloitte.com/br/pt.html))
+
+- ⚡ Fun fact **DUMP 😜**
 
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
-- ⚡ Fun fact **Oneye 😜**
+<br><br><br>
 
-
-<!--
-
-<br><br>
-
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -34,17 +30,11 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
--->
 
 <br><br>
 
-## Contact
+##  📱 &nbsp;Contato
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/guilherme-tarifa-342bba244/" target="_blank">
@@ -55,6 +45,10 @@
 </a>
 
 </p>
+
+<br><br>
+
+##  📊 &nbsp;Análise
 
 <div align="center" justify-content="space-between">
   <a href="https://github.com/Master-Lukaa">
