@@ -47,11 +47,16 @@
 
 ##  📊 &nbsp;Análise
 
-<div align="center" justify-content="space-between">
-  <a href="https://github.com/Master-Lukaa">
+<!-- <div align="center">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=guilherme-tarifa-vieira&show_icons=true&theme=dracula&&count_private=true"/>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-tarifa-vieira&layout=compact&langs_count=7&theme=dracula"/>
+</div> -->
+     
+<div align="center">  
+<img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-tarifa-vieira&show_icons=true&count_private=true&hide_border=true&theme=dracula" alt="Caroline Barbosa github stats" /> 
+<img width="41%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-tarifa-vieira&layout=compact&hide_border=true4&theme=dracula" />
 </div>
+
 <div align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
