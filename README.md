@@ -30,10 +30,6 @@
 
 <br><br>
 
-
-
-<br><br>
-
 ##  📱 &nbsp;Contato
 
 <p align="left" style="background:yellow">
