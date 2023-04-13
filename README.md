@@ -1,6 +1,6 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Guilherme-Tarifa-Vieira/040a3532bedd93ee4e17b2cfec84aead/raw/a4629d59f664f7e525ed01e06c97b2102408132a/git-card.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Guilherme Tarifa</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guilherme-tarifa-vieira&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Seja bem-vindo ao meu perfil no GitHub! Sou um estudante de Tecnologia apaixonado por programação e ansioso para contribuir para um futuro melhor por meio da tecnologia. Estou me capacitando para ingressar no mercado de trabalho na área de desenvolvimento e estou sempre aprendendo mais sobre as últimas tecnologias.
 
