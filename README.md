@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Guilherme-Tarifa-Vieira/040a3532bedd93ee4e17b2cfec84aead/raw/f8532394703a54c0a32d9eafbce2479aeeea60fe/git-card.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Guilherme Tarifa</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou o Guilherme Tarifa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilherme-tarifa-vieira&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Seja bem-vindo ao meu perfil no GitHub! Sou um estudante de Tecnologia apaixonado por programação e ansioso para contribuir para um futuro melhor por meio da tecnologia. Estou me capacitando para ingressar no mercado de trabalho na área de desenvolvimento e estou sempre aprendendo mais sobre as últimas tecnologias.
@@ -56,13 +56,15 @@
 
 </p>
 
-<div align="center">
+<div align="center" justify-content="space-between">
   <a href="https://github.com/Master-Lukaa">
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=guilherme-tarifa-vieira&show_icons=true&theme=dracula&&count_private=true"/>
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-tarifa-vieira&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=guilherme-tarifa-vieira&show_icons=true&theme=dracula&&count_private=true"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-tarifa-vieira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
