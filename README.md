@@ -6,7 +6,7 @@
 
      Acredito que a tecnologia é uma força poderosa para transformar o mundo, e estou empenhado em fazer minha parte para torná-lo um lugar melhor. Minha paixão por         tecnologia é impulsionada por um desejo de melhorar a qualidade de vida das pessoas e cultivar um futuro mais brilhante e promissor para todos. 
 
-- 🔭 Atualmente trabalho na Deloitte [Deloitte]([https://github.com/Rocketseat](https://www2.deloitte.com/br/pt.html))
+- 🔭 Atualmente trabalho na **Deloitte**
 
 - ⚡ Fun fact **DUMP 😜**
 
