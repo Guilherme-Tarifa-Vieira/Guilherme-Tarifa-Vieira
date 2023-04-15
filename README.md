@@ -2,13 +2,14 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou o Guilherme Tarifa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilherme-tarifa-vieira&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Seja bem-vindo ao meu perfil no GitHub! Sou um estudante de Tecnologia apaixonado por programação e ansioso para contribuir para um futuro melhor por meio da tecnologia. Estou me capacitando para ingressar no mercado de trabalho na área de desenvolvimento e estou sempre aprendendo mais sobre as últimas tecnologias.
+🌠 Seja bem-vindo ao meu perfil no GitHub! Sou um estudante de Tecnologia apaixonado por programação e ansioso para contribuir para um futuro melhor por meio da       
+   tecnologia. Estou me capacitando para ingressar no mercado de trabalho na área de desenvolvimento e estou sempre aprendendo mais sobre as últimas tecnologias.
 
-     Acredito que a tecnologia é uma força poderosa para transformar o mundo, e estou empenhado em fazer minha parte para torná-lo um lugar melhor. Minha paixão por         tecnologia é impulsionada por um desejo de melhorar a qualidade de vida das pessoas e cultivar um futuro mais brilhante e promissor para todos. 
+   Acredito que a tecnologia é uma força poderosa para transformar o mundo, e estou empenhado em fazer minha parte para torná-lo um lugar melhor. Minha paixão por        tecnologia é impulsionada por um desejo de melhorar a qualidade de vida das pessoas e cultivar um futuro mais brilhante e promissor para todos. 
 
-- 🔭 Atualmente trabalho na **Deloitte Touche Tohmatsu**
+🔭 Atualmente trabalho na **Deloitte Touche Tohmatsu**
 
-- ⚡ Fun fact **DUMP 😜**
+🚀 Fun fact **DUMP 😜**
 
 
 
