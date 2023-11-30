@@ -38,10 +38,6 @@
 <a href="https://www.linkedin.com/in/guilherme-tarifa-342bba244/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-tarifa-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/bygking" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-tarifa-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-
 </p>
 
 <br><br>
