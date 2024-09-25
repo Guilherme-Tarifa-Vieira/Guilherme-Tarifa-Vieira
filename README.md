@@ -30,15 +30,7 @@
 ![Oracle](https://img.shields.io/badge/-plsql/developer-05122A?style=flat&logo=oracle&logoColor=red)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
 
-<br>
 
-##  📱 &nbsp;Contato
-
-<p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/guilherme-tarifa-342bba244/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-tarifa-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-</p>
 
 <br><br>
 
